@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+1,Mouse,Electronics,8343.00
+2,Keyboard,Electronics,8788.00
+3,Monitor,Electronics,1263.00
+4,Laptop,Electronics,10780.00
+5,Headphones,Electronics,2377.00
+6,Speaker,Electronics,2563.00
+7,T-Shirt,Fashion,10681.00
+8,Jeans,Fashion,7325.00
+9,Jacket,Fashion,12330.00
+10,Shoes,Fashion,1010.00
+11,Hoodie,Fashion,11121.00
+12,Bottle,Home,6108.00
+13,Chair,Home,6645.00
+14,Lamp,Home,11345.00
+15,Table,Home,8277.00
+16,Curtains,Home,10752.00
+17,Face Wash,Beauty,3656.00
+18,Perfume,Beauty,3627.00
+19,Shampoo,Beauty,5582.00
+20,Cream,Beauty,612.00
